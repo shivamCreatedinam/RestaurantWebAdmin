@@ -1,11 +1,10 @@
 {
-  "name": "node-messagebird-verify-example",
-  "main": "index.js",
   "dependencies": {
-    "body-parser": "^1.18.3",
-    "dotenv": "^5.0.1",
-    "express": "^4.16.3",
-    "express-handlebars": "^3.0.0",
-    "messagebird": "^2.1.4"
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.4.3",
+    "otp-generator": "^4.0.1",
+    "twilio": "^5.2.0"
   }
 }
