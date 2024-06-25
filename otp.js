@@ -1,6 +1,4 @@
 const mongoose =require('mongoose');
-
-
 const otpSchema=new mongoose.Schema({
     phoneNumber:{
         type:String,
